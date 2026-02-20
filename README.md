@@ -40,6 +40,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,docker,react,linux" />
   </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,react,linux" />
+  </a>
 </p>
   
 
