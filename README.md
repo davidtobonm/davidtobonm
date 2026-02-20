@@ -36,8 +36,10 @@
 <div align="center">
 <table><tr><td valign="top" width="50%">
 
-<p align="center">
+<p>
   <h3> Other tools I have worked with </h3>
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn" />
   </a>
@@ -49,8 +51,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres" />
-    <img height="40" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" />
+    <img src="https://skillicons.dev/icons?i=gcp,postgres,mongodb" />
   </a>
 </p>
   
@@ -91,7 +92,7 @@ Solución MLOps end-to-end para el análisis de texto con impacto social. El pro
 
 El pipeline de Machine Learning soporta inferencia en tiempo real, así como reentrenamiento del modelo bajo demanda a través de la interfaz web, y fue desarrollado siguiendo la metodología CRISP-ML(Q).
 
-* <a href="https://github.com/BILabsAndProjects/Proyecto2BI" target="_blank">Repository</a>
+* <a href="https://github.com/BILabsAndProjects/Proyecto1" target="_blank">Repository</a>
 
 
 ### DocAId
