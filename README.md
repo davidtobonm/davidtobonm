@@ -86,6 +86,17 @@
 ## 🌠 Projects
 <div align="left">
 
+### Training-free Acceleration with Dense-Caption Control in Text-to-Image Generation with Conditional Diffusion Models
+
+**Tools:** PyTorch, Hugging Face.
+
+Training-free pipeline for Text-to-Image diffusion models that integrates [Dense Diffusion](https://github.com/naver-ai/DenseDiffusion) for spatial control and [Adaptive Guidance](https://bcv-uniandes.github.io/adaptiveguidance-wp/) for inference acceleration. The method employs attention modulation to guide text features toward designated spatial regions, enabling layout control for dense captions without model retraining. The incorporation of Adaptive Guidance transitions from Classifier-Free Guidance to conditional-only steps to reduce the number of function evaluations during the diffusion process.
+
+* [Poster](https://drive.google.com/file/d/1xx9_Tkgj9UYHGJNrVcZWpagpvCj1ZYg-/view?usp=sharing)
+* [Presentation](https://drive.google.com/file/d/1flt6JcY9lSqyWoXzu4B-lXm0-S2kZEq0/view?usp=sharing)
+
+---
+
 ### Text Classification of Opinions on Sustainable Development Goals
 
 **Tools:** scikit-learn, nltk, Vite, FastAPI, Docker. 
@@ -123,8 +134,7 @@ Mobility application for visually impaired users in the TransMilenio transit sys
 
 Aplicación de movilidad en el sistema de TransMilenio para personas con discapacidad visual. Integra funciones de navegaión asistida basada en audio y características de accesibilidad para mejorar la movilidad autónoma de los pasajeros ciegos y de baja visión.
 
-*Private repositoy.*
-Read the design paper [here](https://docs.google.com/document/d/1OYVWeQkz6W3IeGBgsOqhXkaOp2-UGgBGOfZ1uhSQuY8/edit?usp=sharing).
+* *Private repositoy.* Read the design paper [here](https://docs.google.com/document/d/1OYVWeQkz6W3IeGBgsOqhXkaOp2-UGgBGOfZ1uhSQuY8/edit?usp=sharing).
 
 ---
 
@@ -136,7 +146,9 @@ Custom model architecture based on SwinUNETR for lesion detection within a missi
 
 Arquitectura de modelo personalizada basada en SwinUNETR para la detección de lesiones en un contexto de modalidades faltantes en el análisis automatizado de resonancias magnéticas.
 
-View the presentation [here](https://docs.google.com/document/d/1OYVWeQkz6W3IeGBgsOqhXkaOp2-UGgBGOfZ1uhSQuY8/edit?usp=sharing).
+* [Poster](https://drive.google.com/file/d/1y1d1yvAkIC596Vg53apYaG2JJ91x_vcn/view?usp=sharing)
+
+* [Presentation](https://drive.google.com/file/d/1l2tJ0TOoQkUAisL7b_bn41-gE4qqFQro/view?usp=sharing)
 
 </div>
 
