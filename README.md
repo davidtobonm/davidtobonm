@@ -36,7 +36,7 @@
 <div align="center">
 <table><tr><td valign="top" width="50%">
 
-<p>
+<p align="center">
   <h3> Tools I frequently use </h3>
 </p>
 <p align="center">
@@ -76,7 +76,6 @@
     <img src="https://skillicons.dev/icons?i=ros,latex,html,css" />
   </a>
 </p>
-</div>
 
 </td></tr></table>  
 </div>
