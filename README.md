@@ -58,19 +58,24 @@
 
 </td><td valign="top" width="50%">
 
-<div align="center">  
+<p align="center">  
 <h3> Other tools I have worked with </h3>
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/448223/gcp.svg" alt="Google Cloud Computing" height="40" /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" height="40" /></a> 
-<a href="https://angular.io" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" height="40" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" /></a>
-<a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="40" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /></a>  
-<a href="https://www.ros.org/" target="_blank"><img style="margin: 10px" src="ros.png" alt="ROS" height="40" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="40" /></a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,ts,java,kotlin" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,spring,django,nestjs" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ros,latex,html,css" />
+  </a>
+</p>
 </div>
 
 </td></tr></table>  
