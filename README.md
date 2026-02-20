@@ -96,17 +96,19 @@ Solución MLOps end-to-end para el análisis de texto con impacto social. El pro
 
 El pipeline de Machine Learning soporta inferencia en tiempo real, así como reentrenamiento del modelo bajo demanda a través de la interfaz web, y fue desarrollado siguiendo la metodología CRISP-ML(Q).
 
+**Tools:** scikit-learn, nltk, Vite, FastAPI, Docker. 
+
 * <a href="https://github.com/BILabsAndProjects/Proyecto1" target="_blank">Repository</a>
 
 ---
 
 ### DocAId
 
-Automatic transcription and documentation of medical appointments for structured patient and medical records management, helping healthcare providers save time and improve accuracy during patient care.
+Automatic transcription and documentation, using Speech-to-Text models and NLP, of medical appointments for structured patient and medical records management. Helps healthcare providers save time and improve accuracy during patient care.
 
 Transcripción y documentación automática de citas médicas para el registro y manejo estructurado de pacientes y sus historias clínicas. Para ayudar a los proveedores de salud a ahorrar tiempo y mejorar la precisión de los registros durante la atención al paciente.
 
-**Tools:** React, FastAPI, OpenAI.
+**Tools:** React, FastAPI, OpenAI, Whisper, MongoDB.
 * <a href="https://github.com/DavidTobonIBIO/docaid-frontend" target="_blank">Frontend</a>
 * <a href="https://github.com/DavidTobonIBIO/docaid-backend" target="_blank">Backend</a>
 
@@ -114,7 +116,7 @@ Transcripción y documentación automática de citas médicas para el registro y
 
 ### OrientApp
 
-Mobility application for visually impaired users in the TransMilenio transit system. Integrates audio-based assisted navigation functions and accessibility features to enhance autonomous mobility for blind and low-vision passengers.
+Mobility application for visually impaired users in the TransMilenio transit system. Integrates audio-based assisted navigation functions and accessibility features to enhance autonomous mobility for blind and low-vision passengers. 
 
 Aplicación de movilidad en el sistema de TransMilenio para personas con discapacidad visual. Integra funciones de navegaión asistida basada en audio y características de accesibilidad para mejorar la movilidad autónoma de los pasajeros ciegos y de baja visión.
 
@@ -128,6 +130,8 @@ Read the design paper [here](https://docs.google.com/document/d/1OYVWeQkz6W3IeGB
 Custom model architecture based on SwinUNETR for lesion detection within a missing modalities context in automated MRI analysis.
 
 Arquitectura de modelo personalizada basada en SwinUNETR para la detección de lesiones en un contexto de modalidades faltantes en el análisis automatizado de resonancias magnéticas.
+
+**Tools:** PyTorch, Weigths & Biases, MONAI.
 
 View the presentation [here](https://1drv.ms/p/c/12f3b0542173b6d4/Ec6b-ytWOwhMgfLSLih5WHcBzlfHAOOgYbDpc3Z2lIHeiA?e=xvvw7d).
 
