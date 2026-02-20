@@ -24,7 +24,7 @@
 <!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
 
 <!-- - 🔭 I’m currently working on **[Multiple Sclerosis Spinal Cord Lesions Detection](https://github.com/sergiocanar/Ms-Multi-Spine)** -->
-- 🏛️ I'm currently studying **Biomedical and Software Engineering @ [Universidad de los Andes](https://www.uniandes.edu.co/)**
+- 🏛️ Currently studying **Biomedical and Software Engineering @ [Universidad de los Andes](https://www.uniandes.edu.co/)**
 - 🌱 Constantly learning about **Artificial Intelligence, Computer Vision and Health Tech**. 
 - ⚡ Fun fact: Star Wars prosthetics are what inspired me to learn about biomedical tech and programming.
 </div>
@@ -72,6 +72,19 @@
 
 ## 🌠 Projects
 <div align="left">
+
+### Text Classification of Opinions on Sustainable Development Goals
+
+End-to-end MLOps solution for social impact text analysis. The project consists of a a full-stack NLP web application that classifies text opinions according to UN Sustainable Development Goals (SDGs), specifically targeting SDG 1 (No Poverty), SDG 3 (Health and Well-being), and SDG 4 (Quality Education). The system exposes a FastAPI REST backend and a Vite-powered frontend, both containerized with Docker.
+
+The ML pipeline supports live inference as well as on-demand model retraining through the web interface, and was developed following the CRISP-ML(Q) methodology.
+
+Solución MLOps end-to-end para el análisis de texto con impacto social. El proyecto consiste en una aplicación web full-stack de NLP que clasifica opiniones de texto según los Objetivos de Desarrollo Sostenible (ODS) de la ONU, específicamente el ODS 1 (Fin de la Pobreza), el ODS 3 (Salud y Bienestar) y el ODS 4 (Educación de Calidad). El sistema expone un backend REST con FastAPI y un frontend desarrollado con Vite, ambos contenerizados con Docker.
+
+El pipeline de Machine Learning soporta inferencia en tiempo real, así como reentrenamiento del modelo bajo demanda a través de la interfaz web, y fue desarrollado siguiendo la metodología CRISP-ML(Q).
+
+* <a href="https://github.com/BILabsAndProjects/Proyecto2BI" target="_blank">Repository</a>
+
 
 ### DocAId
 
