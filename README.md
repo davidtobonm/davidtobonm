@@ -37,7 +37,7 @@
 <table><tr><td valign="top" width="50%">
 
 <p>
-  <h3> Other tools I have worked with </h3>
+  <h3> Tools I frequently use </h3>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
