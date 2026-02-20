@@ -98,7 +98,7 @@ El pipeline de Machine Learning soporta inferencia en tiempo real, así como ree
 
 * <a href="https://github.com/BILabsAndProjects/Proyecto1" target="_blank">Repository</a>
 
-<br>
+---
 
 ### DocAId
 
@@ -110,7 +110,7 @@ Transcripción y documentación automática de citas médicas para el registro y
 * <a href="https://github.com/DavidTobonIBIO/docaid-frontend" target="_blank">Frontend</a>
 * <a href="https://github.com/DavidTobonIBIO/docaid-backend" target="_blank">Backend</a>
 
-<br>
+---
 
 ### OrientApp
 
