@@ -88,6 +88,8 @@
 
 ### Text Classification of Opinions on Sustainable Development Goals
 
+**Tools:** scikit-learn, nltk, Vite, FastAPI, Docker. 
+
 End-to-end MLOps solution for social impact text analysis. The project consists of a a full-stack NLP web application that classifies text opinions according to UN Sustainable Development Goals (SDGs), specifically targeting SDG 1 (No Poverty), SDG 3 (Health and Well-being), and SDG 4 (Quality Education). The system exposes a FastAPI REST backend and a Vite-powered frontend, both containerized with Docker.
 
 The ML pipeline supports live inference as well as on-demand model retraining through the web interface, and was developed following the CRISP-ML(Q) methodology.
@@ -96,19 +98,18 @@ Solución MLOps end-to-end para el análisis de texto con impacto social. El pro
 
 El pipeline de Machine Learning soporta inferencia en tiempo real, así como reentrenamiento del modelo bajo demanda a través de la interfaz web, y fue desarrollado siguiendo la metodología CRISP-ML(Q).
 
-**Tools:** scikit-learn, nltk, Vite, FastAPI, Docker. 
-
 * <a href="https://github.com/BILabsAndProjects/Proyecto1" target="_blank">Repository</a>
 
 ---
 
 ### DocAId
 
+**Tools:** React, FastAPI, OpenAI, Whisper, MongoDB.
+
 Automatic transcription and documentation, using Speech-to-Text models and NLP, of medical appointments for structured patient and medical records management. Helps healthcare providers save time and improve accuracy during patient care.
 
 Transcripción y documentación automática de citas médicas para el registro y manejo estructurado de pacientes y sus historias clínicas. Para ayudar a los proveedores de salud a ahorrar tiempo y mejorar la precisión de los registros durante la atención al paciente.
 
-**Tools:** React, FastAPI, OpenAI, Whisper, MongoDB.
 * <a href="https://github.com/DavidTobonIBIO/docaid-frontend" target="_blank">Frontend</a>
 * <a href="https://github.com/DavidTobonIBIO/docaid-backend" target="_blank">Backend</a>
 
@@ -116,22 +117,22 @@ Transcripción y documentación automática de citas médicas para el registro y
 
 ### OrientApp
 
+**Tools:** React Native, FastAPI, Whisper, Google Cloud.
+
 Mobility application for visually impaired users in the TransMilenio transit system. Integrates audio-based assisted navigation functions and accessibility features to enhance autonomous mobility for blind and low-vision passengers. 
 
 Aplicación de movilidad en el sistema de TransMilenio para personas con discapacidad visual. Integra funciones de navegaión asistida basada en audio y características de accesibilidad para mejorar la movilidad autónoma de los pasajeros ciegos y de baja visión.
-
-**Tools:** React Native, FastAPI, Whisper, Google Cloud.
 
 *Private repositoy.*
 Read the design paper [here](https://docs.google.com/document/d/1OYVWeQkz6W3IeGBgsOqhXkaOp2-UGgBGOfZ1uhSQuY8/edit?usp=sharing).
 
 ### Multiple Sclerosis Spinal Cord Lesion Detection from MultiSequence MRIs
 
+**Tools:** PyTorch, Weigths & Biases, MONAI.
+
 Custom model architecture based on SwinUNETR for lesion detection within a missing modalities context in automated MRI analysis.
 
 Arquitectura de modelo personalizada basada en SwinUNETR para la detección de lesiones en un contexto de modalidades faltantes en el análisis automatizado de resonancias magnéticas.
-
-**Tools:** PyTorch, Weigths & Biases, MONAI.
 
 View the presentation [here](https://1drv.ms/p/c/12f3b0542173b6d4/Ec6b-ytWOwhMgfLSLih5WHcBzlfHAOOgYbDpc3Z2lIHeiA?e=xvvw7d).
 
