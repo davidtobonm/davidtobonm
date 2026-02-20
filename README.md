@@ -147,7 +147,7 @@ Aplicación de movilidad en el sistema de TransMilenio para personas con discapa
 ---
 
 <a id="ms-spine"></a>
-### Multiple Sclerosis Spinal Cord Lesion Segmentation from MultiSequence MRIs {#ms-spine}
+### Multiple Sclerosis Spinal Cord Lesion Segmentation from MultiSequence MRIs
 
 **Tools:** PyTorch, Weigths & Biases, MONAI.
 
