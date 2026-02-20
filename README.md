@@ -126,6 +126,8 @@ Aplicación de movilidad en el sistema de TransMilenio para personas con discapa
 *Private repositoy.*
 Read the design paper [here](https://docs.google.com/document/d/1OYVWeQkz6W3IeGBgsOqhXkaOp2-UGgBGOfZ1uhSQuY8/edit?usp=sharing).
 
+---
+
 ### Multiple Sclerosis Spinal Cord Lesion Detection from MultiSequence MRIs
 
 **Tools:** PyTorch, Weigths & Biases, MONAI.
