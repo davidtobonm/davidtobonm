@@ -34,7 +34,7 @@
 ## 🛠️ Languages and Tools 
 
 <div align="center">
-<table width="100%"><tr><td valign="top" width="50%" align="center">
+<table><tr><td valign="top" width="50%" align="center">
 
 <p align="center">
   <h3> Tools I frequently use </h3>
