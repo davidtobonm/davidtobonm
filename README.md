@@ -136,7 +136,7 @@ Custom model architecture based on SwinUNETR for lesion detection within a missi
 
 Arquitectura de modelo personalizada basada en SwinUNETR para la detección de lesiones en un contexto de modalidades faltantes en el análisis automatizado de resonancias magnéticas.
 
-View the presentation [here](https://1drv.ms/p/c/12f3b0542173b6d4/Ec6b-ytWOwhMgfLSLih5WHcBzlfHAOOgYbDpc3Z2lIHeiA?e=xvvw7d).
+View the presentation [here](https://docs.google.com/document/d/1OYVWeQkz6W3IeGBgsOqhXkaOp2-UGgBGOfZ1uhSQuY8/edit?usp=sharing).
 
 </div>
 
