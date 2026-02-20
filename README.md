@@ -37,18 +37,19 @@
 <table><tr><td valign="top" width="50%">
 
 <p align="center">
+  <h3> Other tools I have worked with </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,react,linux" />
+    <img src="https://skillicons.dev/icons?i=docker,react,fastapi" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sklearn,postgres" />
+    <img src="https://skillicons.dev/icons?i=postgres" />
     <img height="40" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" />
   </a>
 </p>
