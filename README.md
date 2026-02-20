@@ -86,14 +86,14 @@
 ## 🌠 Projects
 <div align="left">
 
-* [Training-free Acceleration of Image Generation Models](#ag)
-* [Text Classification of Opinions on SDGs](#nlp)
+* [Training-free Acceleration of Image Generation Models](#image-generation)
+* [Text Classification of Opinions on SDGs](#sdg-classification)
 * [DocAId - Automatic documentation of medical appointments](#docaid)
 * [OrientApp - for visually impaired users in the Transmilenio](#orientapp)
 * [Lesion Segmentation in MRIs](#ms-spine)
 
-
-### Training-free Acceleration with Dense-Caption Control in Text-to-Image Generation with Conditional Diffusion Models {#ag}
+<a id="image-generation"></a>
+### Training-free Acceleration with Dense-Caption Control in Text-to-Image Generation with Conditional Diffusion Models
 
 **Tools:** PyTorch, Hugging Face.
 
@@ -104,7 +104,8 @@ Training-free pipeline for Text-to-Image diffusion models that integrates [Dense
 
 ---
 
-### Text Classification of Opinions on Sustainable Development Goals {#nlp}
+<a id="sdg-classification"></a>
+### Text Classification of Opinions on Sustainable Development Goals
 
 **Tools:** scikit-learn, nltk, Vite, FastAPI, Docker. 
 
@@ -145,6 +146,7 @@ Aplicación de movilidad en el sistema de TransMilenio para personas con discapa
 
 ---
 
+<a id="ms-spine"></a>
 ### Multiple Sclerosis Spinal Cord Lesion Segmentation from MultiSequence MRIs {#ms-spine}
 
 **Tools:** PyTorch, Weigths & Biases, MONAI.
