@@ -40,12 +40,16 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi" />
   </a>
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,react,linux" />
   </a>
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sklearn,postgres" />
-    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" />
+    <img height="40" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" />
   </a>
 </p>
   
